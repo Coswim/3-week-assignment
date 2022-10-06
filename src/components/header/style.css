@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+
+    background-color: white;
+    width: 1200px;
+    max-width: 95%;
+    height: 50px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    margin: 0px auto;
+    padding: 0 20px;
+    
+}

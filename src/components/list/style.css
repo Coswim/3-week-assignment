@@ -1,0 +1,32 @@
+.todolistbox {
+    background-color: #FFB5A7;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    width: 250px;
+    height: 170px;
+
+    border-radius: 10px;
+    margin: 10px 30px;
+    box-shadow: #EEEEEE;
+}
+
+
+.repeatForm {
+    display: flex;
+}
+
+.repeatFormBox {
+    display: flex;
+}
+
+h1 {
+    margin: 0 30px;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+

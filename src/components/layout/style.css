@@ -1,0 +1,9 @@
+.wrap {
+    margin: 0 auto;
+    max-width: 1200px;
+    min-width: 800px;
+    background-color: #F8ECEA;
+
+    display: flex;
+    flex-direction: column;
+}
